@@ -6,10 +6,10 @@ Meu nome é Ana Julia.
 - estou estudando na [Alura](https://www.alura.com.br);
 - estou aprendendo computacao básica;
 - tenho facilidade em aprender coisas novas;
-- gosto de práticar esportes como vôlei e handebol❤️t;
+- gosto de práticar esportes como vôlei e handebol❤️;
 - me dou bem com trebalho em grupo.
 
-### Você pode entrar em contato comgo em:
+### Você pode entrar em contato comigo em:
 
 anajuliaan262@gmail.com
 
